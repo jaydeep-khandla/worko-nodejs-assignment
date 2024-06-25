@@ -192,68 +192,6 @@ This will run unit tests for the controllers, services, and data access objects 
     └── .env
     └── .gitignore
     └── app.js
-    └── 📁coverage
-        └── clover.xml
-        └── coverage-final.json
-        └── 📁lcov-report
-            └── base.css
-            └── block-navigation.js
-            └── 📁controllers
-                └── index.html
-                └── userController.js.html
-            └── 📁dao
-                └── index.html
-                └── userDAO.js.html
-            └── 📁dtos
-                └── index.html
-                └── userDTO.js.html
-            └── favicon.png
-            └── index.html
-            └── 📁middlewares
-                └── auth.js.html
-                └── index.html
-            └── 📁models
-                └── index.html
-                └── User.js.html
-            └── prettify.css
-            └── prettify.js
-            └── 📁routes
-                └── index.html
-                └── userRoutes.js.html
-            └── 📁services
-                └── index.html
-                └── userService.js.html
-            └── sort-arrow-sprite.png
-            └── sorter.js
-            └── 📁worko-nodejs-assignment
-                └── app.js.html
-                └── index.html
-                └── 📁src
-                    └── 📁config
-                        └── db.js.html
-                        └── index.html
-                    └── 📁controllers
-                        └── index.html
-                        └── userController.js.html
-                    └── 📁dao
-                        └── index.html
-                        └── userDAO.js.html
-                    └── 📁dtos
-                        └── index.html
-                        └── userDTO.js.html
-                    └── 📁middlewares
-                        └── auth.js.html
-                        └── index.html
-                    └── 📁models
-                        └── index.html
-                        └── User.js.html
-                    └── 📁routes
-                        └── index.html
-                        └── userRoutes.js.html
-                    └── 📁services
-                        └── index.html
-                        └── userService.js.html
-        └── lcov.info
     └── package-lock.json
     └── package.json
     └── README.md
