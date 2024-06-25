@@ -65,12 +65,11 @@ You can interact with the API using tools like Postman or cURL. Below are the av
 
 ### Headers
 
-    ```json
     {
         "Authorization": "Bearer YWRtaW46cGFzc3dvcmQ=",
         "Content-Type": "application/json"
     }
-    ```
+
 
 ### User Endpoints
 
