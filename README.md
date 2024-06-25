@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Prerequisites](#prirequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
@@ -14,13 +15,21 @@
 
 This project is a User Management API built with Node.js, Express, and MongoDB. It provides endpoints to create, read, update, and delete user data, as well as handle user authentication and data validation.
 
+## Prerequisites
+
+Before running this project, ensure you have the following software installed:
+
+- Node.js
+- MongoDB
+- Git
+
 ## Installation
 
 To get started with the project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/worko-nodejs-assignment.git
+    git clone https://github.com/jaydeep-khandla/worko-nodejs-assignment.git
     cd worko-nodejs-assignment
     ```
 
@@ -29,7 +38,11 @@ To get started with the project, follow these steps:
     npm install
     ```
 
-3. **Set up environment variables:**
+3. **DataBase Setup**
+
+    Create DataBase named `worko` in MongoDBCompass. Can use MongoDB Atlas also, Just change the environment variables accordingly.
+
+4. **Set up environment variables:**
 
     Create a `.env` file in the root of the project and add the following environment variables:
     ```
@@ -37,7 +50,7 @@ To get started with the project, follow these steps:
     MONGODB_URI=mongodb://localhost:27017/worko
     ```
 
-4. **Start the server:**
+5. **Start the server:**
     ```sh
     npm run start:dev
     ```
