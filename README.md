@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Prerequisites](#prirequisites)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
