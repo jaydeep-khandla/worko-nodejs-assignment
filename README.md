@@ -7,8 +7,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Testing](#testing)
 - [Building](#building)
+- [Testing](#testing)
 - [Directory Structure](#directory-structure)
 
 ## Introduction
@@ -182,15 +182,15 @@ You can interact with the API using tools like Postman or cURL. Below are the av
     }
     ```
 
-## Bundling
+## Building
 
-To bundle the application, use following command:
+To build the bundle for the application, use following command:
 
 ```sh
 npm run build
 ```
 
-To Run the bundle, use following command:
+To Run the build, use following command:
 
 ```sh
 npm run start:bundle
