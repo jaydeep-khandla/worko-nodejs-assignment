@@ -65,6 +65,15 @@ You can interact with the API using tools like Postman or cURL. Below are the av
 
 ### User Endpoints
 
+- **Headers**
+
+    ```json
+    {
+        "Authorization": "Bearer YWRtaW46cGFzc3dvcmQ=",
+        "Content-Type": "application/json"
+    }
+    ```
+
 - **Create a user**
 
     ```http
@@ -174,7 +183,7 @@ You can interact with the API using tools like Postman or cURL. Below are the av
     }
     ```
 
-##Bundling
+## Bundling
 
 To bundle the application, use following command:
 
