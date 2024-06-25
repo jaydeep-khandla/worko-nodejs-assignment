@@ -63,9 +63,7 @@ You can interact with the API using tools like Postman or cURL. Below are the av
 
 ## API Endpoints
 
-### User Endpoints
-
-- **Headers**
+### Headers
 
     ```json
     {
@@ -73,6 +71,8 @@ You can interact with the API using tools like Postman or cURL. Below are the av
         "Content-Type": "application/json"
     }
     ```
+
+### User Endpoints
 
 - **Create a user**
 
