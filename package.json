@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "start:dev": "node app.js",
     "start:bundle": "node dist/bundle.js",
     "test": "jest --coverage",
